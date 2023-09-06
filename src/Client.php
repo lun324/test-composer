@@ -2,6 +2,8 @@
 
 namespace Lun324\TestComposer;
 
+use Exception;
+
 class Client extends Networked
 {
 

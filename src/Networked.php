@@ -2,6 +2,8 @@
 
 namespace Lun324\TestComposer;
 
+use Exception;
+
 class Networked
 {
     protected function postRequest($url, $payload, $userAgent, $ignoredHttpCodes = [])
