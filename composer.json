@@ -1,0 +1,21 @@
+{
+  "name": "lun324/test-composer",
+  "type": "library",
+  "description": "dn",
+  "authors": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+    }
+  ],
+  "require": {
+    "php": "^5.6"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "Lun324\\TestComposer\\": "src"
+    }
+  }
+}
