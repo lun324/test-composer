@@ -1,6 +1,6 @@
 <?php
 
-namespace Lun324\Test;
+namespace Lun324\TestComposer;
 
 class Validator
 {
