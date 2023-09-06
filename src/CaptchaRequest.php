@@ -2,6 +2,8 @@
 
 namespace Lun324\TestComposer;
 
+use Exception;
+
 class CaptchaRequest extends Networked
 {
     protected $validate;
